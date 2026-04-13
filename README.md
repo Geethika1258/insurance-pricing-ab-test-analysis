@@ -44,7 +44,7 @@ Risk-based dynamic pricing (Strategy B) should be rolled out
 prioritising the 41-50 age segment where retention improvement is highest. Full rollout projected to generate ₹1.93M additional annual revenue across 5,000 policyholders.
 
 ## Dashboard 
-file:///C:/Users/User/AppData/Local/Temp/Power%20BI%20Desktop/print-job-e7f5282e-fab0-48ac-8bf3-31eedb3c7eb7/Insurance%20Pricing%20AB%20test%20Dashboard.pdf
+https://github.com/Geethika1258/insurance-pricing-ab-test-analysis/blob/main/Insurance%20Pricing%20AB%20test%20Dashboard.pdf
 
 ## Tools
 Pyhton | Pandas | Numpy | Scipy | Matplotlib | seaborn | Power BI 
